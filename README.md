@@ -52,8 +52,8 @@
 
 
 
-### Name:THIRUMALAI K
-### Register Number:212224240176
+### Name: NIJANTH K
+### Register Number:212224230186
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
